@@ -1,4 +1,4 @@
-<h1 align="center">App de Notícias - Chevrolet Opala</h1>
+<h1 align="center">Desafio 04 - App de Notícias - Chevrolet Opala</h1>
 
 <p align="center">
   <a href="#-atividade">Atividade</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -51,7 +51,7 @@ Desenvolvimento de um aplicativo mobile utilizando React Native, com o objetivo 
 
 ```
 ├── App.js # Componente principal da aplicação
-├── print.png
+├── print.png # Print do projeto
 ├── README.md # Documentação do projeto
 ```
 
