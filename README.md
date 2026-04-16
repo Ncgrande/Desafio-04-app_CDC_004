@@ -79,7 +79,7 @@ Desenvolvimento de um aplicativo mobile utilizando React Native, com o objetivo 
 
 1. Instalar as dependências:
 ```
-- npm install
+npm install
 ```
 
 2. Iniciar o projeto:
