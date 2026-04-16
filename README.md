@@ -1,4 +1,4 @@
-<h1 align="center">Desafio 04 - App de Notícias - Chevrolet Opala</h1>
+<h1 align="center"> App de Notícias - Chevrolet Opala (Desafio 04)</h1>
 
 <p align="center">
   <a href="#-atividade">Atividade</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
