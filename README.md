@@ -51,7 +51,7 @@ Desenvolvimento de um aplicativo mobile utilizando React Native, com o objetivo 
 
 ```
 ├── App.js # Componente principal da aplicação
-├── assets/ # Imagens (opcional)
+├── print.png
 ├── README.md # Documentação do projeto
 ```
 
@@ -72,7 +72,6 @@ Desenvolvimento de um aplicativo mobile utilizando React Native, com o objetivo 
   <img src="print.png" width="300"/>
 </p>
 
-> 💡 Dica: salve a imagem como `print.png` dentro do projeto e troque `SEU_PRINT_AQUI.png` por `print.png`
 
 ---
 
