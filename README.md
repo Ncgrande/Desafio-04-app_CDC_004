@@ -96,6 +96,6 @@ npx expo start
 
 ## 👽 Feito por
 
-Estudante do 4º semestre de Análise e Desenvolvimento de Sistemas:
+Estudante do 5º semestre de Análise e Desenvolvimento de Sistemas:
 
 - **Nilson Grande**
